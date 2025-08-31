@@ -1,0 +1,79 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+.myenv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+*.out
+*.err
+
+# Data files (optional – keep only small sample datasets in Git)
+*.csv
+*.tsv
+*.dat
+*.npz
+*.npy
+*.h5
+*.pickle
+*.pkl
+
+# TensorBoard logs
+logs/
+events.out.tfevents*
+
+# Model checkpoints
+checkpoints/
+*.h5
+*.hdf5
+*.pb
+saved_model/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+# Virtual environments
+deeplearning/
+deeplearning
+deeplearning/*
+
+
+# Virtual environments
+deeplearning/
+
+# Model files
+*.h5
+*.hdf5
+*.pb
+saved_model/
+
+# TensorBoard logs
+logs/
+events.out.tfevents*
+
+# Datasets
+*.csv
+*.tsv
+*.npz
+*.npy
+*.pkl
