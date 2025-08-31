@@ -78,3 +78,4 @@ events.out.tfevents*
 *.npy
 *.pkl
 
+/data
