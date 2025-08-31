@@ -5,3 +5,6 @@ pandas
 matplotlib
 scikit-learn
 jupyter
+dagshub
+dvc
+mlflow

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/baqirrizvi/Desktop/ai/DeepLearning/notebooks/mlruns/0/15cb2de118b34c699b49e8934bde6f49/artifacts
+end_time: 1756646145750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15cb2de118b34c699b49e8934bde6f49
+run_name: gifted-dolphin-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756646145746
+status: 3
+tags: []
+user_id: baqirrizvi
