@@ -8,3 +8,4 @@ jupyter
 dagshub
 dvc
 mlflow
+keras-tuner
