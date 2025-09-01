@@ -98,5 +98,3 @@ Keras Tuner provides strategies like:
    - Classification → Evaluate using accuracy on validation data.
 
 ---
-
-## 📂 Project Structure

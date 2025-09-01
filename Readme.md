@@ -65,3 +65,7 @@ Model too complex → memorizes training, fails on test.
 - **Overfitting:** Add regularization, dropout, early stopping, augmentation.
 
 📌 **Goal:** Achieve balance → model should **generalize well** to unseen data.
+
+# Keras Tuner - HyperParameter Tuning of models:
+
+### For understanding of KerasTuner, refer to the [KerasTuner Readme](./kerasTuner/Readme.md).
