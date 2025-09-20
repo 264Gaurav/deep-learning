@@ -1,0 +1,6 @@
+# Embeddings / Word Embeddings : 
+
+### Article to Read : 
+#### How to Use Word Embedding Layers for Deep Learning with Keras
+
+https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
