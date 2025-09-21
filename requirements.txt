@@ -1,5 +1,6 @@
-tensorflow-macos
-tensorflow-metal
+tensorflow
+# tensorflow-macos #for macos
+# tensorflow-metal #for macos
 numpy
 pandas
 matplotlib
@@ -9,3 +10,4 @@ dagshub
 dvc
 mlflow
 keras-tuner
+dvc[s3]
