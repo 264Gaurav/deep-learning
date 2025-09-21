@@ -68,4 +68,8 @@ Model too complex → memorizes training, fails on test.
 
 # Keras Tuner - HyperParameter Tuning of models:
 
-### For understanding of KerasTuner, refer to the [KerasTuner Readme](./kerasTuner/Readme.md).
+### For understanding of KerasTuner, refer to the [KerasTuner Readme](./2-kerasTuner/Readme.md).
+
+# Embeddings with keras and tensoflow :
+
+### For understanding of Embeddings, refer to the [Embeddings Readme](./5-WordEmbeddings/Readme.md).
